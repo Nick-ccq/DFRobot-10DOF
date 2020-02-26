@@ -1,0 +1,7 @@
+{
+    "FreeSixIMU.FreeSixIMUInit|block": "10自由度惯性导航模块 初始化",
+    "FreeSixIMU.FreeSixIMUInitRead|block": "获取当前数据",
+    "FreeSixIMU.FreeSixIMUInitReadXYZ|block": "读取[SR]数据"
+
+    
+}
