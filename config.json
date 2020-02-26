@@ -20,10 +20,18 @@
       "dir": "arduinoC/",
       "version": "0.0.1",
       "board": [
-        "mega2560","arduino"
+        "mega2560",
+        "arduino"
       ],
-      "main": "main.ts"
-    
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/arduino.json",
+        "_menus/mega2560.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
     }
   }
 }
