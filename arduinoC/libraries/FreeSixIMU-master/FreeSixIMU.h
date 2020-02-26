@@ -78,7 +78,7 @@ class FreeSixIMU
     unsigned long lastUpdate, now; // sample period expressed in milliseconds
     float sampleFreq; // half the sample period expressed in seconds
     int startLoopTime;
-    float      angles[3];
+    
 };
 
 float invSqrt(float number);
