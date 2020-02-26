@@ -275,6 +275,7 @@ void FreeSixIMU::getQ(float * q) {
 // Returns the Euler angles in radians defined with the Aerospace sequence.
 // See Sebastian O.H. Madwick report 
 // "An efficient orientation filter for inertial and intertial/magnetic sensor arrays" Chapter 2 Quaternion representation
+
 void FreeSixIMU::getEuler(float * angles) {
 float q[4]; // quaternion
   getQ(q);
