@@ -1,7 +1,7 @@
 {
 	
 	"SR":{
-		"menu": [["X", "1"],["Y", "2"],["Z", "3"]],
+		"menu": [["X", "0"],["Y", "1"],["Z", "2"]],
 		"default_GestureTouchSensoreSR":"X"
 	}
 }

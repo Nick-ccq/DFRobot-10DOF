@@ -62,8 +62,7 @@ class FreeSixIMU
     
     
 	ADXL345 acc;
-    ITG3200 gyro;
-    
+    ITG3200 gyro; 
     int* raw_acc, raw_gyro, raw_magn;
     
   private:
